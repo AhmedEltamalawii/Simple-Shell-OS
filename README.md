@@ -12,6 +12,15 @@ The FAT table is used to manage disk space. Each file or directory is stored in 
 
 ---
 
+---
+
+## 🧰 Technologies Used
+
+- C# (Console Interaction for I/O operations)
+- Object-Oriented Programming
+
+---
+
 ## ⚙️ System Architecture
 
 The architecture includes these major layers:
